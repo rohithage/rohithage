@@ -4,7 +4,7 @@
 **rohithage/rohithage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-## 🚀 About Me
+🚀 About Me
 - 🔭 I’m currently working on learning Python
 - 🌱 I’m currently learning Cybersecurity
 - 👯 I’m looking to collaborate on open-source projects
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, git, Linux, Networking, Cybersecurity
 - 📫 How to reach me: rohithage@gmail.com
 
-## 🛠️ Skills
+🛠️ Skills
 - Python
 - Git and GitHub
 - Linux basics
