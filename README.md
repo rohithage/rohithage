@@ -1,12 +1,7 @@
- Hi there 👋
 
 <!--
 **rohithage/rohithage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 🚀 My Coding Journey 🚀
 
-![Python](https://img.shields.io/badge/Python-Expert-brightgreen)
-![Progress](https://img.shields.io/badge/Progress-🔥%20Blazing%20Fast-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Active%20Contributor-lightgrey)
 
 Here are some ideas to get you started:
 🚀 About Me
