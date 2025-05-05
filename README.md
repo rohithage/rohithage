@@ -1,5 +1,6 @@
  Hi there 👋
-
+![Progress](https://img.shields.io/badge/Progress-🔥%20Blazing%20Fast-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Active%20Contributor-lightgrey)
 <!--
 **rohithage/rohithage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
